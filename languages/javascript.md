@@ -51,7 +51,7 @@ Bootstrap is not used as often as it was in the past. But it is stil seen in som
 * Bootstrap Websites: [https://expo.getbootstrap.com/](https://expo.getbootstrap.com/)
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="jQuery" %}
 {% embed url="https://jquery.com" %}
 jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
 {% endembed %}
