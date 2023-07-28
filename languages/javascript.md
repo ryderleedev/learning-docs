@@ -22,6 +22,7 @@ description: >-
 
 <summary>Javascript Quick References</summary>
 
+* Clean Code for JS: [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * JS Key Codes: [https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
 * JS Events: [https://developer.mozilla.org/en-US/docs/Web/Events](https://developer.mozilla.org/en-US/docs/Web/Events)
 * JS Array Explorer: [https://sdras.github.io/array-explorer/](https://sdras.github.io/array-explorer/)
