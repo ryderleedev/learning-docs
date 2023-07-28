@@ -42,14 +42,6 @@ What is CSS?
 ## CSS Frameworks:
 
 {% tabs %}
-{% tab title="Bootstrap" %}
-{% embed url="https://getbootstrap.com" %}
-Bootstrap is not used as often as it was in the past. But it is stil seen in some web pages/applications.
-{% endembed %}
-
-* Bootstrap Websites: [https://expo.getbootstrap.com/](https://expo.getbootstrap.com/)
-{% endtab %}
-
 {% tab title="Tailwind" %}
 {% embed url="https://tailwindcss.com" %}
 A highly customizable, low-level CSS framework.

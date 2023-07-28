@@ -6,7 +6,7 @@
 
 * [🎨 CSS](languages/css.md)
 * [🔳 HTML](languages/html.md)
-* [📥 Javascript](languages/javascript.md)
+* [📥 JavaScript](languages/javascript.md)
 
 ## Developer QoL Improvements
 

@@ -4,7 +4,7 @@ description: >-
   Javascript frameworks such as Vue.js, Node.js, and React are also included!
 ---
 
-# 📥 Javascript
+# 📥 JavaScript
 
 {% hint style="info" %}
 **What is Javascript?**
@@ -20,7 +20,7 @@ description: >-
 
 <details>
 
-<summary>Javascript Quick References</summary>
+<summary>JavaScript Quick References</summary>
 
 * Clean Code for JS: [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * JS Key Codes: [https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
@@ -39,3 +39,21 @@ description: >-
 * ES7+ React Snippets: [https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 </details>
+
+## JavaScript Frameworks:
+
+{% tabs %}
+{% tab title="Bootstrap" %}
+{% embed url="https://getbootstrap.com" %}
+Bootstrap is not used as often as it was in the past. But it is stil seen in some web pages/applications.
+{% endembed %}
+
+* Bootstrap Websites: [https://expo.getbootstrap.com/](https://expo.getbootstrap.com/)
+{% endtab %}
+
+{% tab title="Untitled" %}
+{% embed url="https://jquery.com" %}
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+{% endembed %}
+{% endtab %}
+{% endtabs %}
